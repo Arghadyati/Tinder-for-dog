@@ -1,3 +1,25 @@
-I have craeted a frontend website using html,css and bootstrap.
-Introduction:Bascially it is a tinder website for dogs.
-I have learned about the concept of z-index,css media breakpoint by making this project.
+
+# Tindog
+
+It is a tinder for dogs.
+
+
+## Authors
+
+- [@arghadyati](https://github.com/Arghadyati/Tinder-for-dog/commits?author=Arghadyati)
+
+
+## Lessons Learned
+
+I have learned about css z-index,css media breakpoint to make a website mobile responsive.
+
+
+## Deployment
+Project is live at https://arghadyatitindog.netlify.app/
+
+
+## Tech Stack
+
+**Client:** Html,Css
+
+
